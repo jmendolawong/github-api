@@ -20,7 +20,7 @@ function displayResults(results){
             </li>`
         )
     }
-}
+} 
 
 /* 
 getRepo will add the user input to the search url to create api url
